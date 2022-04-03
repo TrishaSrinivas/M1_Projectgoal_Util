@@ -28,6 +28,6 @@ Folder             | Description
 
 ### Contribution by
 
-Pika Trisha Srinivas           
+Pika Trisha Srinivas          
   
 
